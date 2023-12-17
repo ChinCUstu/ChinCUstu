@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChinCUstu
-- 👀 I’m interested in Tech and programming...
-- 🌱 I’m currently learning Java Programming, C++ programming, Python, C# Pprogramming, SQL.
+- 👋 Hi, I’m Ndulue Chinedu
+- 👀 I’m interested in Tech, programming and Analysis.
+- 🌱 I’m currently learning Java Programming, C++ programming, R, Python, C# programming, and SQL.
 - 💞️
-As a data analyst, I am skilled in collecting, processing, and performing statistical analyses on large datasets. I can use various data analysis tools and techniques to uncover insights and trends that can inform strategic decision-making.
+As a data analyst, I am skilled in collecting, processing, and performing statistical analyses on large datasets. I can use various data analysis tools and techniques to uncover insights and trends that inform strategic decision-making.
 
   Some of my key skills and experience in data analysis include:
     - Proficiency in programming languages such as R and Python, and experience using libraries such as Pandas, NumPy, and Matplotlib for data analysis and visualization.
@@ -10,9 +10,9 @@ As a data analyst, I am skilled in collecting, processing, and performing statis
     - Familiarity with machine learning algorithms and techniques, and experience applying them to real-world datasets.
     - Strong analytical skills, with the ability to identify patterns and trends in complex datasets.
 
-I am willing to collaborate on several data analysis projects to level up in my field.
+I will collaborate on several data analysis projects to improve my field.
 
-- 📫 How to reach me +234 9150770517(Telegram) or +237675164301...
+- 📫 How to reach me +2349150770517 or +237675164301...
 
 <!---
 ChinCUstu/ChinCUstu is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
